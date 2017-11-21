@@ -6,6 +6,9 @@
 
 ## 2、任务要求
 编程 web 应用程序 cloudgo-io。 
+链接：
+
+![](https://github.com/FlyingFeather/cloudgo-io/blob/master/screenshot/1.png)
 
 ### 基本要求
 1. 支持静态文件服务
@@ -13,15 +16,21 @@ static为静态文件夹，有css，js，images文件夹
 
 2. 支持简单 js 访问
 这一项按照课堂文档中完成，通过http://localhost:8080/jsontest访问
-![]()
+
+![](https://github.com/FlyingFeather/cloudgo-io/blob/master/screenshot/4.png)
 
 3. 提交表单，并输出一个表格
 通过http://localhost:8080访问，提交后跳转到通过http://localhost:8080/index
-![]()
+
+![](https://github.com/FlyingFeather/cloudgo-io/blob/master/screenshot/2.png)
+
+提交后跳转：
+![](https://github.com/FlyingFeather/cloudgo-io/blob/master/screenshot/3.png)
 
 4. 对 /unknown 给出开发中的提示，返回码 505
 通过http://localhost:8080/unknown访问
-![]()
+
+![](https://github.com/FlyingFeather/cloudgo-io/blob/master/screenshot/5.png)
 
 
 提示：
